@@ -1,0 +1,78 @@
+.navbar{
+    display : flex;
+    justify-content: space-around;
+}
+
+#searchbar{
+    display:flex;
+    justify-content:flex-end;
+}
+h1{
+    display:flex;
+    justify-content: center;
+}
+#image{
+    display:flex;
+    justify-content:center;
+    
+}
+#page{
+    display:flex;
+    flex-direction:row-reverse;
+}
+#about2{
+    display:flex;
+    justify-content:center;
+}
+p{
+    display:flex;
+    justify-content:center;
+    font-size:17px;
+}
+#work{
+    display:flex;
+    justify-content:center;
+}
+#resume{
+    display:flex;
+    justify-content:center;
+}
+#contact{
+    display:flex;
+    justify-content:center;
+}
+#Rate{
+    display:flex;
+    justify-content:center;
+}
+#Rate2{
+    display:flex;
+    justify-content:center;
+}
+#RATE{
+    display:flex;
+    justify-content:center;
+}
+#SUBMIT{
+    display:flex;
+    justify-content:center;
+}
+h3{
+    font-size: 25px;
+    font-family:Helvetica , roboto;
+}
+h1{
+    font-size: 35px;
+}
+body {
+    background-image: url(https://www.ecoledujournalisme.com/edj-news/wp-content/uploads/2017/02/web-designer-pune-background.jpg);
+    background-repeat: repeat;
+    background-attachment: sticky;
+  }
+.navbar{
+    border: 5px groove skyblue;
+}
+#text{
+    display: flex;
+    justify-content: space-evenly;
+}
